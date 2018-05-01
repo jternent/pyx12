@@ -45,7 +45,7 @@ class DataElements(object):
         dataele_file = 'dataele.xml'
         if base_path is not None:
             logger.debug("Looking for data element definition file '{}' in map_path '{}'".format(dataele_file, base_path))
-            fd = open(os.path.join(base_path, dataele_file))
+            fd = open(os.path.join(base_path, dataele_file),'r')
         else:
             logger.debug("Looking for data element definition file '{}' in pkg_resources".format(dataele_file))
             fd = resource_stream(__name__, os.path.join('map', dataele_file))
