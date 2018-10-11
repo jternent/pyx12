@@ -12573,9 +12573,9 @@
                         <seq>07</seq>
                       </element>
                       <element xid="NM108">
-                        <data_ele>66</data_ele>
+                        <data_ele>66A</data_ele>
                         <name>Identification Code Qualifier</name>
-                        <usage>R</usage>
+                        <usage><S></S></usage>
                         <seq>08</seq>
                         <valid_codes>
                           <code>PI</code>
@@ -12583,9 +12583,9 @@
                         </valid_codes>
                       </element>
                       <element xid="NM109">
-                        <data_ele>67</data_ele>
+                        <data_ele>67A</data_ele>
                         <name>Other Payer Primary Identifier</name>
-                        <usage>R</usage>
+                        <usage>S</usage>
                         <seq>09</seq>
                       </element>
                       <element xid="NM110">
@@ -26644,7 +26644,7 @@
                           <seq>07</seq>
                         </element>
                         <element xid="NM108">
-                          <data_ele>66</data_ele>
+                          <data_ele>66A</data_ele>
                           <name>Identification Code Qualifier</name>
                           <usage>S</usage>
                           <seq>08</seq>
@@ -26654,7 +26654,7 @@
                           </valid_codes>
                         </element>
                         <element xid="NM109">
-                          <data_ele>67</data_ele>
+                          <data_ele>67A</data_ele>
                           <name>Other Payer Primary Identifier</name>
                           <usage>S</usage>
                           <seq>09</seq>
@@ -29678,7 +29678,7 @@
                         <pos>5400</pos>
                         <max_use>1</max_use>
                         <element xid="SVD01">
-                          <data_ele>67</data_ele>
+                          <data_ele>67A</data_ele>
                           <name>Other Payer Primary Identifier</name>
                           <usage>R</usage>
                           <seq>01</seq>
