@@ -261,9 +261,11 @@
   <data_ele ele_num="65" data_type="R" min_len="1" max_len="8" name="Height"/>
   <data_ele ele_num="659" data_type="ID" min_len="1" max_len="2" name="Basis of Verification Code"/>
   <data_ele ele_num="66" data_type="ID" min_len="1" max_len="2" name="Identification Code Qualifier"/>
-  <data_ele ele_num="662" data_type="ID" min_len="1" max_len="1" name="Relationship Code"/>
+  <data_ele ele_num="66A" data_type="ID" min_len="0" max_len="2" name="Other Identification Code Qualifier"/>
+   <data_ele ele_num="662" data_type="ID" min_len="1" max_len="1" name="Relationship Code"/>
   <data_ele ele_num="669" data_type="ID" min_len="3" max_len="3" name="Currency Market/Exchange Code"/>
   <data_ele ele_num="67" data_type="AN" min_len="2" max_len="80" name="Identification Code"/>
+  <data_ele ele_num="67A" data_type="AN" min_len="0" max_len="80" name="Other Identification Code"/>
   <data_ele ele_num="672" data_type="ID" min_len="2" max_len="2" name="Resource Authorization Code"/>
   <data_ele ele_num="673" data_type="ID" min_len="2" max_len="2" name="Quantity Qualifier"/>
   <data_ele ele_num="675" data_type="ID" min_len="2" max_len="2" name="Schedule Type Qualifier"/>
