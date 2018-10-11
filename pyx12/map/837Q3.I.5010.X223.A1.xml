@@ -12575,7 +12575,7 @@
                       <element xid="NM108">
                         <data_ele>66A</data_ele>
                         <name>Identification Code Qualifier</name>
-                        <usage><S></S></usage>
+                        <usage>S</usage>
                         <seq>08</seq>
                         <valid_codes>
                           <code>PI</code>
