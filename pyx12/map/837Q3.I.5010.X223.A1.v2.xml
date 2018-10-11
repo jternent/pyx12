@@ -4050,13 +4050,13 @@
                   <element xid="NM105" data_ele="1037" usage="S" seq="05" name="Other Insured Middle Name"/>
                   <element xid="NM106" data_ele="1038" usage="N" seq="06" name="Name Prefix"/>
                   <element xid="NM107" data_ele="1039" usage="S" seq="07" name="Other Insured Name Suffix"/>
-                  <element xid="NM108" data_ele="66A" usage="N" seq="08" name="Identification Code Qualifier">
+                  <element xid="NM108" data_ele="66A" usage="S" seq="08" name="Identification Code Qualifier">
                     <valid_codes>
                       <code>II</code>
                       <code>MI</code>
                     </valid_codes>
                   </element>
-                  <element xid="NM109" data_ele="67A" usage="N" seq="09" name="Other Insured Identifier"/>
+                  <element xid="NM109" data_ele="67A" usage="S" seq="09" name="Other Insured Identifier"/>
                   <element xid="NM110" data_ele="706" usage="N" seq="10" name="Entity Relationship Code"/>
                   <element xid="NM111" data_ele="98" usage="N" seq="11" name="Entity Identifier Code"/>
                   <element xid="NM112" data_ele="1035" usage="N" seq="12" name="Name Last or Organization Name"/>
