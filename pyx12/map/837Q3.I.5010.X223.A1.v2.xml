@@ -521,6 +521,7 @@
             <element xid="SBR08" data_ele="584" usage="N" seq="08" name="Employment Status Code"/>
             <element xid="SBR09" data_ele="1032" usage="S" seq="09" name="Claim Filing Indicator Code">
               <valid_codes>
+			    <code>H</code>
                 <code>11</code>
                 <code>12</code>
                 <code>13</code>
