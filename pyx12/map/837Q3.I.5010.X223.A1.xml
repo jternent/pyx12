@@ -1680,6 +1680,7 @@
                   <usage>S</usage>
                   <seq>09</seq>
                   <valid_codes>
+				    <code>H</code>
                     <code>11</code>
                     <code>12</code>
                     <code>13</code>
