@@ -12306,7 +12306,7 @@
                   <!--End of MOA segment-->
                   <loop xid="2330A">
                     <name>Other Subscriber Name</name>
-                    <usage>R</usage>
+                    <usage>S</usage>
                     <pos>3250</pos>
                     <repeat>1</repeat>
                     <segment xid="NM1">
@@ -26103,7 +26103,7 @@
                     <!--End of AMT segment-->
                     <segment xid="OI">
                       <name>Other Insurance Coverage Information</name>
-                      <usage>R</usage>
+                      <usage>S</usage>
                       <pos>3100</pos>
                       <max_use>1</max_use>
                       <element xid="OI01">
