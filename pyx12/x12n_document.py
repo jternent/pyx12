@@ -172,7 +172,7 @@ def x12n_document(param, src_file, fd_997, fd_html,
                             raise pyx12.errors.EngineError(err_str)
                         cur_map = pyx12.map_if.load_map_file(map_file, param, map_path)
                         src.check_837_lx = True if cur_map.id == '837' else False
-                        logger.debug('Map file: %s' % (map_file))
+                        logger.info('Map file: %s' % (map_file))
                         #apply_loop_count(node, cur_map)
                         node = cur_map.getnodebypath('/ISA_LOOP/GS_LOOP/ST_LOOP/HEADER/BHT')
                 errh.add_seg(node, seg, src.get_seg_count(), src.get_cur_line(), src.get_ls_id())
