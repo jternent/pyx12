@@ -3892,7 +3892,7 @@
                 <element xid="CAS02" data_ele="1034" usage="R" seq="02" name="Adjustment Reason Code">
                   <valid_codes external="adjustment_reason"/>
                 </element>
-                <element xid="CAS03" data_ele="782" usage="R" seq="03" name="Adjustment Amount"/>
+                <element xid="CAS03" data_ele="782" usage="S" seq="03" name="Adjustment Amount"/>
                 <element xid="CAS04" data_ele="380" usage="S" seq="04" name="Adjustment Quantity"/>
                 <element xid="CAS05" data_ele="1034" usage="S" seq="05" name="Adjustment Reason Code">
                   <valid_codes external="adjustment_reason"/>
