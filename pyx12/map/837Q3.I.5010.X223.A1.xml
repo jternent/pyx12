@@ -12032,7 +12032,7 @@
                   <!--End of AMT segment-->
                   <segment xid="OI">
                     <name>Other Insurance Coverage Information</name>
-                    <usage>R</usage>
+                    <usage>S</usage>
                     <pos>3100</pos>
                     <max_use>1</max_use>
                     <element xid="OI01">
