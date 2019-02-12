@@ -11840,7 +11840,7 @@
                     <element xid="CAS03">
                       <data_ele>782</data_ele>
                       <name>Adjustment Amount</name>
-                      <usage>R</usage>
+                      <usage>S</usage>
                       <seq>03</seq>
                     </element>
                     <element xid="CAS04">
